@@ -2,10 +2,10 @@
 
 **Code Pink** is a mock safety call project developed during the HackHers hackathon hosted by GirlsWhoCode at GSU. This project is aimed at enhancing women's safety through a simulated safety call system.
 
-About HackHers
+## About HackHers
 HackHers is an all-women hackathon hosted by GirlsWhoCode at GSU, designed to empower and support women in technology. It provides an inclusive environment for female programmers, designers, and entrepreneurs to collaborate, create innovative projects, and network with like-minded individuals.
 
-Project Overview
+## Project Overview
 **Code Pink** is a project developed during HackHers that focuses on women's safety. It's a mock safety call system aimed at empowering women and enhancing their safety in various situations. With Code Pink, users can simulate a safety call by using their phone, which can be a valuable tool for self-protection.
 
 ## Features
